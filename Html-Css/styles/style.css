@@ -1,3 +1,6 @@
 body {
     background-color: rgba(243, 255, 132, 0.2);
 }
+ul li {
+    display: inline;
+}
